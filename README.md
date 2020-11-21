@@ -1,2 +1,3 @@
 # Javascript-tutorial-codes
-A simple Todo application based on vanilla js
+
+This repository contains codes from different tutorials found online. 
